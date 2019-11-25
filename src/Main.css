@@ -1,0 +1,20 @@
+.Main {
+    float: left;
+    margin-top: -5px;
+    width: 80%;
+    height: 800px;
+    background: #394b7e;
+    padding: 50px;
+    color: white;
+    text-align: left;
+   
+}
+
+.Main-sweet img{
+    float: left;
+    
+}
+.Main-sweet a{
+    color: white;
+    
+}
