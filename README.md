@@ -12,7 +12,7 @@ Html, CSS, ReactJS, React Bootstrap.
 
 ## Working with Reactjs:
 1) Downloaded node.js
-2) Typed this on the node.js command prompt `npm init react-app my-app`
+2) Type this `npm init react-app my-app` on the node.js command prompt. 
 3) Then created  main, footer, header and nav for the application 
 4) then imported the components to the App.js file
 5) created a two column layout application
