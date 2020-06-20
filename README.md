@@ -5,14 +5,14 @@ The Web application is built using ReactJS framework. The created web applicatio
 The blog is about a Bakery Store with its famous receipes during Thanksgiving. The website has a semantic view which is easier for the users to navigate.
 
 
-Web Technologies used :
-Html, CSS, Reactjs, React Bootstrap;
+#### Web Technologies used :
+Html, CSS, ReactJS, React Bootstrap.
 
 
 
 ## Working with Reactjs:
-1) downloaded node.js
-2) created an app using the 'npm init react-app my-app'
+1) Downloaded node.js
+2) Typed this on the node.js command prompt `npm init react-app my-app`
 3) Then created  main, footer, header and nav for the application 
 4) then imported the components to the App.js file
 5) created a two column layout application
