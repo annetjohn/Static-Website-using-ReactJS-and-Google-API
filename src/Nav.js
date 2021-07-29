@@ -34,7 +34,7 @@ class Nav extends Component {
     render() {
         return (
             <div className="Nav">
-                <h1>Google Headline</h1>
+                <h1>News...</h1>
                 {this.state.quotes.map((article, i) =>
                     <div>
                         <p>{i + 1}) {article.title}</p>

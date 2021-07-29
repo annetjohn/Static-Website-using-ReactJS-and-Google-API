@@ -3,8 +3,9 @@
     margin-top: -5px;
     width: 20%;
     height: 800px;
-    background: #152245;
+    background: #becdf5;
     padding: 50px;
-    color: white;
-    
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    border:2px solid #b80762;
 }

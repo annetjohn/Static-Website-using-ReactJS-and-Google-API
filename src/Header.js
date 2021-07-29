@@ -6,7 +6,7 @@ import './Header.css';
 function Header() {
   return (
     <div className="Header">
-      <h1><p>Bakers Bake Shop</p></h1>
+      <h1><p>Cravings</p></h1>
     </div>
   );
 }

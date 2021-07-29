@@ -6,7 +6,9 @@ import './Footer.css';
 function Footer() {
   return (
     <div className="footer">
-      
+      <p>Annet John &nbsp;
+      <a href="mailto:annetjohn.john@gmail.com">annetjohn.john@gmail.com</a>
+      </p>
     </div>
   );
 }

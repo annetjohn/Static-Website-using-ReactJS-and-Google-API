@@ -3,10 +3,10 @@
     margin-top: -5px;
     width: 80%;
     height: 800px;
-    background: #394b7e;
+    background: #f7f6f6;
     padding: 50px;
-    color: white;
-    text-align: left;
+    color: rgb(0, 0, 0);
+    text-align: center;
    
 }
 
@@ -15,6 +15,12 @@
     
 }
 .Main-sweet a{
-    color: white;
-    
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+   
+}
+
+.Main-style p{
+    margin-left:250px;
+    border:2px solid #b80762;
 }
