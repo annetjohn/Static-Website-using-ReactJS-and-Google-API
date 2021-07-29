@@ -4,7 +4,7 @@
 Created a single page web application using the ReactJS framework. 
 The page is about a food blog named Cravings – recipes. 
 The Web application is built using ReactJS framework.  
-The website has a semantic view which is easier for the users to navigate and its responsive to use, easy to use on mobile, tablets and browers. 
+The website has a semantic view which is easier for the users to navigate and its responsive on mobile, tablets and browers. 
 
 
 #### Web Technologies used :
