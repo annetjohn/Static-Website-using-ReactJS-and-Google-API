@@ -6,7 +6,7 @@ The blog is about a Bakery Store with its famous receipes during Thanksgiving. T
 
 
 #### Web Technologies used :
-Html, CSS, ReactJS, React Bootstrap.
+JavaScript, Html, CSS, ReactJS framework.
 
 
 
