@@ -1,3 +1,4 @@
+![static website cravings](https://user-images.githubusercontent.com/22961700/127527245-73afbc74-1cd0-4888-88ff-721381943636.PNG)
 
 # Static Website using ReactJS
 
