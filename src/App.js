@@ -11,10 +11,10 @@ function App() {
     <div className="App">
       <Header />
       <div className="row">
-      <Main/>
+        <Main />
 
-      <Nav />
-       </div>
+        <Nav />
+      </div>
 
       <Footer />
     </div>
