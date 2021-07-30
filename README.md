@@ -1,12 +1,15 @@
+![static website cravings](https://user-images.githubusercontent.com/22961700/127527245-73afbc74-1cd0-4888-88ff-721381943636.PNG)
 
 # Static Website using ReactJS
 
-The Web application is built using ReactJS framework. The created web application is a single page blog web application. 
-The blog is about a Bakery Store with its famous receipes during Thanksgiving. The website has a semantic view which is easier for the users to navigate.
+Created a single page web application using the ReactJS framework. 
+The page is about a food blog named Cravings – recipes. 
+The Web application is built using ReactJS framework.  
+The website has a semantic view which is easier for the users to navigate and its responsive on mobile, tablets and browers. 
 
 
 #### Web Technologies used :
-Html, CSS, ReactJS, React Bootstrap.
+JavaScript, Html, CSS, ReactJS framework.
 
 
 
